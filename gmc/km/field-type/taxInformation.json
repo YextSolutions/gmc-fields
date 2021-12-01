@@ -1,0 +1,73 @@
+{
+  "$id": "gmc_taxInformation",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Tax Information",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "taxRate",
+          "displayName": "Tax Rate",
+          "isRequired": false,
+          "typeId": "decimal",
+          "type": {
+            "decimalType": {}
+          }
+        },
+        {
+          "name": "taxCountry",
+          "displayName": "Tax Country",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "taxRegion",
+          "displayName": "Tax Region",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "taxShipping",
+          "displayName": "Tax Shipping",
+          "isRequired": false,
+          "typeId": "boolean",
+          "type": {
+            "booleanType": {}
+          }
+        },
+        {
+          "name": "taxLocationID",
+          "displayName": "Tax Location ID",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "taxPostalCode",
+          "displayName": "Tax Postal Code",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "$id": "gmc_localShippingInformation",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Local Shipping Information",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "country",
+          "displayName": "Country",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "locationGroupName",
+          "displayName": "Location Group Name",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "locationID",
+          "displayName": "Location ID",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "minimumHandlingTime",
+          "displayName": "Minimum Handling Time",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "maximumHandlingTime",
+          "displayName": "Maximum Handling Time",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "minimumTransitTime",
+          "displayName": "Minimum Transit Time",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "maximumTransitTime",
+          "displayName": "Maximum Transit Time",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "postalCode",
+          "displayName": "Postal Code",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "price",
+          "displayName": "Price",
+          "isRequired": false,
+          "typeId": "c_price"
+        },
+        {
+          "name": "region",
+          "displayName": "Region",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "service",
+          "displayName": "Service",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

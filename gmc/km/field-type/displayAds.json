@@ -1,0 +1,69 @@
+{
+  "$id": "gmc_displayAds",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Display Ads",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "displayAdsID",
+          "displayName": "Display Ads ID",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "displayAdsLink",
+          "displayName": "Display Ads Link",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "URL"
+            }
+          }
+        },
+        {
+          "name": "displayAdsSimilarIDs",
+          "displayName": "Display Ads Similar IDs",
+          "isRequired": false,
+          "typeId": "list",
+          "type": {
+            "listType": {
+              "typeId": "string",
+              "type": {
+                "stringType": {
+                  "stereotype": "SIMPLE"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "displayAdsTitle",
+          "displayName": "Display Ads Title",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "displayAdsValue",
+          "displayName": "Display Ads Value",
+          "isRequired": false,
+          "typeId": "decimal",
+          "type": {
+            "decimalType": {}
+          }
+        }
+      ]
+    }
+  }
+}

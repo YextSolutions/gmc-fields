@@ -1,0 +1,8 @@
+{
+  "$id": "gmc_overrideShipping",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Override Shipping",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "gmc_localShippingInformation"
+}
