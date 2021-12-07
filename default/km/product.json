@@ -1,0 +1,80 @@
+{
+  "$id": "product",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": true,
+  "entityType": "product",
+  "field": [
+    {
+      "id": "gmc_additionalSizeType",
+      "required": false
+    },
+    {
+      "id": "gmc_adsRedirectURL",
+      "required": false
+    },
+    {
+      "id": "gmc_canonicalLink",
+      "required": false
+    },
+    {
+      "id": "gmc_displayAds",
+      "required": false
+    },
+    {
+      "id": "gmc_excludedDestinations",
+      "required": false
+    },
+    {
+      "id": "gmc_googleProductCategory",
+      "required": false
+    },
+    {
+      "id": "gmc_identifierExists",
+      "required": false
+    },
+    {
+      "id": "gmc_includedDestinations",
+      "required": false
+    },
+    {
+      "id": "gmc_itemGroupID",
+      "required": false
+    },
+    {
+      "id": "gmc_overrideShipping",
+      "required": false
+    },
+    {
+      "id": "gmc_pickupMethod",
+      "required": false
+    },
+    {
+      "id": "gmc_shippingLabel",
+      "required": false
+    },
+    {
+      "id": "gmc_shoppingAdsExcludedCountries",
+      "required": false
+    },
+    {
+      "id": "gmc_shoppingAdsLabels",
+      "required": false
+    },
+    {
+      "id": "gmc_targetCountry",
+      "required": false
+    },
+    {
+      "id": "gmc_taxCategoryLabel",
+      "required": false
+    },
+    {
+      "id": "gmc_taxOverride",
+      "required": false
+    },
+    {
+      "id": "gmc_transitTimeLabel",
+      "required": false
+    }
+  ]
+}
