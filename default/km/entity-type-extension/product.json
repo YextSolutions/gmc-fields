@@ -69,7 +69,7 @@
       "required": false
     },
     {
-      "id": "gmc_taxOverride",
+      "id": "gmc_overrideTax",
       "required": false
     },
     {
