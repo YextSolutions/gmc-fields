@@ -253,7 +253,7 @@
             "id": "gmc_overrideShipping"
           },
           {
-            "id": "gmc_pickupMethod"
+            "id": "gmc_pickupMethodOption"
           },
           {
             "id": "gmc_shippingLabel"
