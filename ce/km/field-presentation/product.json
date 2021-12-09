@@ -271,7 +271,7 @@
             "id": "gmc_taxCategoryLabel"
           },
           {
-            "id": "gmc_taxOverride"
+            "id": "gmc_overrideTax"
           },
           {
             "id": "gmc_transitTimeLabel"
