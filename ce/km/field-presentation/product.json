@@ -250,7 +250,7 @@
             "id": "gmc_itemGroupID"
           },
           {
-            "id": "gmc_overrideShipping"
+            "id": "gmc_shippingOverride"
           },
           {
             "id": "gmc_pickupMethodOption"
