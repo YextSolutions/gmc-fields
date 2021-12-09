@@ -1,5 +1,5 @@
 {
-  "$id": "gmc_pickupMethod",
+  "$id": "gmc_pickupMethod_temp",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Pickup Method",
   "group": "NONE",
