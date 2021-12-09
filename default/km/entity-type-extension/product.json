@@ -41,7 +41,7 @@
       "required": false
     },
     {
-      "id": "gmc_overrideShipping",
+      "id": "gmc_shippingOverride",
       "required": false
     },
     {
