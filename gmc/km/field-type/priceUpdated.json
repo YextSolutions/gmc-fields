@@ -1,7 +1,6 @@
 {
   "$id": "c_priceUpdated",
   "$schema": "https://schema.yext.com/config/km/field-type/v1",
-  "description": "Custom Price field type",
   "displayName": "Price",
   "type": {
     "structType": {
