@@ -97,7 +97,7 @@
           "name": "price",
           "displayName": "Price",
           "isRequired": false,
-          "typeId": "c_price"
+          "typeId": "c_priceUpdated"
         },
         {
           "name": "region",
