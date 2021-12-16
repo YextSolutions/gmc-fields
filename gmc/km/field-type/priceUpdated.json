@@ -1,5 +1,5 @@
 {
-  "$id": "c_priceUpdated",
+  "$id": "gmc_priceUpdated",
   "$schema": "https://schema.yext.com/config/km/field-type/v1",
   "displayName": "Price",
   "type": {
