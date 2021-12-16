@@ -97,7 +97,7 @@
           "name": "price",
           "displayName": "Price",
           "isRequired": false,
-          "typeId": "c_priceUpdated"
+          "typeId": "gmc_priceUpdated"
         },
         {
           "name": "region",
