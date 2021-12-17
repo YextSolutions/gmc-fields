@@ -94,7 +94,7 @@
           }
         },
         {
-          "name": "price",
+          "name": "price2",
           "displayName": "Price",
           "isRequired": false,
           "typeId": "gmc_priceUpdated"
