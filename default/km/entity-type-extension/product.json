@@ -17,6 +17,10 @@
       "required": false
     },
     {
+      "id": "gmc_channel",
+      "required": false
+    },
+    {
       "id": "gmc_displayAds",
       "required": false
     },
