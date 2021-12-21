@@ -45,6 +45,10 @@
       "required": false
     },
     {
+      "id": "gmc_localInventory",
+      "required": false
+    },
+    {
       "id": "gmc_shippingOverride",
       "required": false
     },
