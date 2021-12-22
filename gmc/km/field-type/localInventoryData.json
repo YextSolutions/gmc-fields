@@ -6,8 +6,8 @@
     "structType": {
       "property": [
         {
-          "name": "googlePlaceID",
-          "displayName": "Google Place ID",
+          "name": "googleStoreCode",
+          "displayName": "Google Store Code",
           "isRequired": false,
           "typeId": "string",
           "type": {
