@@ -8,7 +8,7 @@
         {
           "name": "googleStoreCode",
           "displayName": "Google Store Code",
-          "isRequired": true,
+          "isRequired": false,
           "typeId": "string",
           "type": {
             "stringType": {
