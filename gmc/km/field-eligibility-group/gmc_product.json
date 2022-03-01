@@ -1,7 +1,7 @@
 {
-  "$id": "product.default",
+  "$id": "gmc_product",
   "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
-  "name": "Product-default",
+  "name": "Product",
   "entityType": "product",
   "fields": [
     "gmc_additionalSizeType",

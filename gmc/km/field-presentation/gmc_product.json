@@ -1,5 +1,5 @@
 {
-    "$id": "ce_product",
+    "$id": "gmc_product",
     "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
     "entityType": "product",
     "displayName": "Product",
